@@ -1,2 +1,2 @@
 # blackice
-project black ice
+hardware component for nsync boards
